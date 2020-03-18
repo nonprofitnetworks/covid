@@ -1,6 +1,24 @@
 # Covid help for San Francisco
 
-For emergencies call 911.
+Translate: 
+[عربي](https://translate.google.com/translate?sl=en&tl=ar&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Deutsch](https://translate.google.com/translate?sl=en&tl=de&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Ελληνικά](https://translate.google.com/translate?sl=en&tl=el&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[English](https://translate.google.com/translate?sl=en&tl=en&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Español](https://translate.google.com/translate?sl=en&tl=es&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Français](https://translate.google.com/translate?sl=en&tl=fr&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[עברית](https://translate.google.com/translate?sl=en&tl=he&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[हिन्दी](https://translate.google.com/translate?sl=en&tl=hi&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Italiano](https://translate.google.com/translate?sl=en&tl=it&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[한국어](https://translate.google.com/translate?sl=en&tl=ko&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[ਪੰਜਾਬੀ](https://translate.google.com/translate?sl=en&tl=pa&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Русский](https://translate.google.com/translate?sl=en&tl=ru&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[தமிழ்](https://translate.google.com/translate?sl=en&tl=ta&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[ไทย](https://translate.google.com/translate?sl=en&tl=th&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[Việt](https://translate.google.com/translate?sl=en&tl=vt&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+[中文](https://translate.google.com/translate?sl=en&tl=zh&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Ftree%2Fmaster%2Flocations%2Funited-states%2Fcalifornia%2Fsan-francisco)
+
+**For emergencies call 911.**
 
 ## Medical
 
