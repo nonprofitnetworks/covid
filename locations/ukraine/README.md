@@ -12,15 +12,17 @@ we want pull requests and we also want to add people to be pull request approver
 
 ## Alerts
 
-Add alerts and related information for your area here.
+[Active monitoring of situation with suspected cases of COVID-19 in Ukraine](https://public.tableau.com/views/monitor_15841091301660/sheet0?:display_count=y&:origin=viz_share_link)
 
+[Coronavirus COVID-19 Global Cases by CSSE@JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 ## Health
 
-Add healthcare information here, such as how to get tested in your area, how to get a doctor in your area, and more.
+All information about current healthcare attempts can be found here: https://moz.gov.ua/koronavirus-2019-ncov
 
 ## Food
 
-Add food information here, such as how to get food in your area, food banks, food sharing, and more.
+*Overall state on March 18, 2020*:
+Local markets are open and working as usual, but schools, pubs and all sorts of entertainment facilities (public places) are ought to be closed. Any citizen can get food easily. It appears to be a mild panic among old people, as they are stocking up with buckwheat, rice and sugar mainly. Younger people react calmly, behaving as usual regarding buying the food.
 
 ## Utilties
 
@@ -29,4 +31,3 @@ Add utilties information here, such as how to get help with electricity in your 
 ## Miscellaneous
 
 Add any other information here.
-
