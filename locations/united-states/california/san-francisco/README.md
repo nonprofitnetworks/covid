@@ -272,10 +272,10 @@ There are a few women’s shelters suitable for people who have to leave their h
 
 * If you’re enrolled with Changes, you can call 311 to be put on a shelter waitlist for a 90-day reservation. You can find out your status on the waitlist by calling 311, visiting one of the four centers or looking online at sf311.org/waitlist.
 
-## Organizations - to do
+## Organizations
 
 
-**Glide Memorial Church<**:
+**Glide Memorial Church**:
 
 * http://www.glide.org/serveameal
 
