@@ -1,11 +1,10 @@
 # Covid help for Los Angeles
 
-This document was created by people who are committed to our community's health :-)
-As long as it is done to help others, you are welcome to add resources or copy them.
-Please e-mail  [theebighonk@gmail.com](mailto:theebighonk@gmail.com)
-if you see any inaccurate info or if you'd like to add something.
+<!-- language:en -->
 
-Google Translate
+<!-- header start -->
+
+Translate
 :
 [عربي](https://translate.google.com/translate?sl=en&tl=ar&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
 •
@@ -18,6 +17,13 @@ Google Translate
 [Русский](https://translate.google.com/translate?sl=en&tl=ru&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
 •
 [中文](https://translate.google.com/translate?sl=en&tl=zh&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+
+<!-- header stop -->
+
+This document was created by people who are committed to our community's health :-)
+As long as it is done to help others, you are welcome to add resources or copy them.
+Please e-mail  [theebighonk@gmail.com](mailto:theebighonk@gmail.com)
+if you see any inaccurate info or if you'd like to add something.
 
 ## Alerts
 

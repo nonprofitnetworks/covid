@@ -1,0 +1,33 @@
+#!/bin/sh
+
+# out: print output message to stdout
+out() { printf %s\\n "$*" ; }
+
+link_as_markdown(){
+    uri_encoded="$1"
+    source_langauge_code="$2"
+    output_language_code="$3"
+    label="$4"
+    out "[$label](https://translate.google.com/translate?sl=$source_language_code&tl=$output_language_code&u=$uri_encoded)"
+}
+
+uri="$1"
+source_language_code="$2"
+uri_encoded=$(urlencode "$uri")
+
+link_as_markdown "$uri_encoded" "$source_language_code" "ar" "عربي"
+link_as_markdown "$uri_encoded" "$source_language_code" "de" "Deutsch"
+link_as_markdown "$uri_encoded" "$source_language_code" "el" "Ελληνικά"
+link_as_markdown "$uri_encoded" "$source_language_code" "en" "English"
+link_as_markdown "$uri_encoded" "$source_language_code" "es" "Español"
+link_as_markdown "$uri_encoded" "$source_language_code" "fr" "Français"
+link_as_markdown "$uri_encoded" "$source_language_code" "he" "עברית"
+link_as_markdown "$uri_encoded" "$source_language_code" "hi" "हिन्दी"
+link_as_markdown "$uri_encoded" "$source_language_code" "it" "Italiano"
+link_as_markdown "$uri_encoded" "$source_language_code" "ko" "한국어"
+link_as_markdown "$uri_encoded" "$source_language_code" "pa" "ਪੰਜਾਬੀ"
+link_as_markdown "$uri_encoded" "$source_language_code" "ru" "Русский"
+link_as_markdown "$uri_encoded" "$source_language_code" "ta" "தமிழ்"
+link_as_markdown "$uri_encoded" "$source_language_code" "th" "ไทย"
+link_as_markdown "$uri_encoded" "$source_language_code" "vt" "Việt"
+link_as_markdown "$uri_encoded" "$source_language_code" "zh" "中文"
