@@ -5,8 +5,6 @@ As long as it is done to help others, you are welcome to add resources or copy t
 Please e-mail  [theebighonk@gmail.com](mailto:theebighonk@gmail.com)
 if you see any inaccurate info or if you'd like to add something.
 
-Translations: coming soon
-
 ## Alerts
 
 All restaurants (sit in), gym, fitness studios, theaters, and bars closed starting MONDAY, MARCH 16 at 12am **
@@ -41,27 +39,27 @@ children and youth, adults, eldery and the undocumented community.
 Food:
 
 * LAUSD is opening 60 sites providing two grab-and-go meals for students and families beginning on Wednesday, March 18th from 7am to 10am.
-[More information](https://achieve.lausd.net/resources)
+[More information](https://achieve.lausd.net/resources).
 
 * Free breakfast (8am-10am) provided by Eastside Riders for student in Watts community starting Monday, March 16, 2020 and ending Friday, March 20, 2020.
-  [More information](https://www.instagram.com/p/B9r5hGghQhS/)
+  [More information](https://www.instagram.com/p/B9r5hGghQhS/).
 
 * Free breakfast (730-930am), lunch (1130-130pm), and dinner (430-630) for all LAUSD students starting Monday, March 16, 2020 from 7:30am to 6:30pm at 2301 Bellevue Ave., Los Angeles 90026.
-  [More information](https://www.instagram.com/p/B9sW_hzgYnJ/)
+  [More information](https://www.instagram.com/p/B9sW_hzgYnJ/).
 
 * Beginning Monday, March 16th, Hugo’s kids menu will be free for guests 12 and under throughout the LAUSD closure.
-  [More information](https://www.instagram.com/p/B9sFXZZJhnL/)
+  [More information](https://www.instagram.com/p/B9sFXZZJhnL/).
 
-* Los Angelitos Bakery offering 1 free bread to each child, aged 5-13 years old, Monday-Friday from 12pm-2pm
-  [More information](https://www.instagram.com/p/B9t8EBVgEUz/)
+* Los Angelitos Bakery offering 1 free bread to each child, aged 5-13 years old, Monday-Friday from 12pm-2pm.
+  [More information](https://www.instagram.com/p/B9t8EBVgEUz/).
 
-* Starting Monday, March 16, 2020, the city of Lynwood is offering supper meals for kids ages 1-18
-  [More information](https://www.instagram.com/p/B9utWgMlwQ2/)
+* Starting Monday, March 16, 2020, the city of Lynwood is offering supper meals for kids ages 1-18.
+  [More information](https://www.instagram.com/p/B9utWgMlwQ2/).
 
-* Starting Monday, March 16, 2020, kids 12 and under can eat for free at El Torito Restaurants
-  ([More information](https://www.instagram.com/p/B9xkzW6B7NV/)
+* Starting Monday, March 16, 2020, kids 12 and under can eat for free at El Torito Restaurants.
+  ([More information](https://www.instagram.com/p/B9xkzW6B7NV/).
 
-* Free Breakfast Burritos for children ages 6-12 years old. Pick up Monday-Friday 7am-8am
+* Free Breakfast Burritos for children ages 6-12 years old. Pick up Monday-Friday 7am-8am.
 
   * Toast: 11119 first ave los angeles ca
 
@@ -70,26 +68,26 @@ Food:
   * The Dylan: 190 S. State College Blvd, Brea
 
 * Free Meals for Children Ages 5-17. Breakfast, lunch and snacks. Please bring School ID. This is for any child in the community. This will occur from 3/18/20-3/27/20 from 9:30am-12pm. Location will be from TEACH Academy. 10045 S. Western., Los Angeles, CA 90047. If you have any questions, call 562-665-6263.
-  [More information](https://www.instagram.com/p/B90LtzqgI-f/?igshid%3Dj7z88feeprt5)
+  [More information](https://www.instagram.com/p/B90LtzqgI-f/?igshid%3Dj7z88feeprt5).
 
 Education:
 
 * Free access to Spectrum Broadband and Wi-Fi For 60 Days For New K-12 and College Student Households
-  [More information](https://corporate.charter.com/newsroom/charter-to-offer-free-access-to-spectrum-broadband-and-wifi-for-60-days-for-new-K12-and-college-student-households-and-more)
+  [More information](https://corporate.charter.com/newsroom/charter-to-offer-free-access-to-spectrum-broadband-and-wifi-for-60-days-for-new-K12-and-college-student-households-and-more).
 
-* Free access to L’il Libros worksheets for kids
-  [More information](https://www.instagram.com/p/B9rrKxiFGIB/)
+* Free access to L’il Libros worksheets for kids.
+  [More information](https://www.instagram.com/p/B9rrKxiFGIB/).
 
-* Starting Monday, March 16, students in Pre-K through 12th grade will have the opportunity to access free, educational PBS daytime programming designated for each grade level weekdays
-  [More information](https://www.pbssocal.org/pbs-news/at-home-learning/)
+* Starting Monday, March 16, students in Pre-K through 12th grade will have the opportunity to access free, educational PBS daytime programming designated for each grade level weekdays.
+  [More information](https://www.pbssocal.org/pbs-news/at-home-learning/).
 
-* [FB Group](https://www.facebook.com/groups/temphomeschoolers/) for parents to get support with home learning
+* [FB Group](https://www.facebook.com/groups/temphomeschoolers/) for parents to get support with home learning.
 
-* MIND Research Institute is offering no cost access to a free math instructional program for students in grades K-8
-  [More information](https://www.stmath.com/coronavirus?fbclid%3DIwAR2Z9kqIE7kBcVq7YdAEYuvWQEW2quTvZ6m9KS_zMeyeiT9wHYcwgpmeRv0)
+* MIND Research Institute is offering no cost access to a free math instructional program for students in grades K-8.
+  [More information](https://www.stmath.com/coronavirus).
 
 * Scholastic offers free, online learning experiences for kids of all ages
-  [More information](https://classroommagazines.scholastic.com/support/learnathome.html)
+  [More information](https://classroommagazines.scholastic.com/support/learnathome.html).
 
 * PBS offers free educational daytime programming designated for K-12 each through the following channels:
 
@@ -99,7 +97,7 @@ Education:
 
   * 9th - 12th grade on KCET
 
-  * [More information]](https://www.kcet.org/tv-talk/at-home-learning)
+  * [More information]](https://www.kcet.org/tv-talk/at-home-learning).
 
 
 ### Adults (18-64)
@@ -107,21 +105,20 @@ Education:
 Housing:
 
 * The Los Angeles Tenants Union is providing support around evictions.
-  Find your local union at: (https://latenantsunion.org/en/locals/)
+  Find your local union at: (https://latenantsunion.org/en/locals/).
 
 Housing for students and/or foster youth:
 
 * If you are or know of a foster youth that is staying at a college dorm room that is going to be closed due to the coronavirus, please email  [info@togetherwerise.org](mailto:info@togetherwerise.org)  and they will provide or help you find housing during this transition.
 
-
 Food/housing for homeless/low-income individuals and family:
 
 * St. Francis Center provides meal services, clothing closets, showers/bathroom services, and rental and utility assistance programs (over the phone) for homeless and low-income individuals in Los Angeles
-  [More information](https://www.stfranciscenterla.org/import-update-regarding-st-francis-center-program-modifications-and-covid-19-preparedness-plan/)
+  [More information](https://www.stfranciscenterla.org/import-update-regarding-st-francis-center-program-modifications-and-covid-19-preparedness-plan/).
 
 ### Eldery (65+)
 
-* Food: [Elderly Meal Program Map](https://www.google.com/maps/d/viewer?mid=1paBMfsRqsS4r9Px4xiOGYCfxA4-J9y2E&amp;ll=34.029728592186366%2C-118.13568714999201&amp;z=10)
+* Food: [Elderly Meal Program Map](https://www.google.com/maps/d/viewer?mid=1paBMfsRqsS4r9Px4xiOGYCfxA4-J9y2E&amp;ll=34.029728592186366%2C-118.13568714999201&amp;z=10).
 
 * Gloria Molina YWCA food distribution
 
@@ -131,14 +128,13 @@ Food/housing for homeless/low-income individuals and family:
 
   * Starting Wednesday march 18th
 
-* [Community and Senior Centers Senior Lunch Programs](https://wdacs.lacounty.gov/wp-content/uploads/2020/03/CentersUpdate_SeniorLunches_3.13.20.pdf)
+* [Community and Senior Centers Senior Lunch Programs](https://wdacs.lacounty.gov/wp-content/uploads/2020/03/CentersUpdate_SeniorLunches_3.13.20.pdf).
 
 * Seniors in Lynwood, Compton, South Gate, Watts who need food delivery
 
   * Call Greater Emmanuel Temple at 424.296.0400
 
   * Tuesday - Friday, 9am to 12pm
-
 
 Grocery Shopping:
 
@@ -154,19 +150,16 @@ Grocery Shopping:
 * ALL Super A Markets will open one hour early to allow Seniors 65 years and up to exclusively shop during the hours of 7:00am- 8:00am before the store opens to the general public.
   [More information](https://www.facebook.com/SuperAFoods/photos/a.264662603556795/3117073431649017/?type%3D3%26theater)
 
-
 ### Undocumented Community
 
 * [Resource guide created by California Immigrant Youth Justice Alliance](https://ciyja.org/covid19/)
 
 * [Trans/Queer Relief - Mutual Aid Form](https://docs.google.com/forms/d/e/1FAIpQLSfO1Ws5YgKFMXKu9CSh_WUVCznssExW6bnJpom5JsP24XwCLQ/viewform)
 
-
 ## Employment
 
 What employees are entitled to may be confusing. 
 [THIS CHART](https://www.labor.ca.gov/coronavirus2019/%23chart) makes it easier to understand what resources may be available. More information below.
-
 
 ### Employment Issues
 
@@ -603,39 +596,36 @@ Food:
 
   * Offers two free months of internet and WiFi services for K-12 and college students affected by the current school closures, in households not already subscribed to Spectrum Internet
 
-  * [More information](https://www.spectrum.net/support/internet/coronavirus-covid-19-information-spectrum-customers)
-
+  * [More information](https://www.spectrum.net/support/internet/coronavirus-covid-19-information-spectrum-customers).
 
 * [Verizon will help customers and small businesses disrupted by impact of coronavirus](https://www.verizon.com/about/news/verizon-help-customers-and-small-businesses)
 
-* Charter COMCAST - Free Internet Service for Households with Children - to enroll: 844.488.8395
+* Charter COMCAST - Free Internet Service for Households with Children - to enroll: 844.488.8395.
 
 * Los Angeles Department of Water &amp; Power still offering payment plan and suspending utility shut off for March (for now)
 
-
   * [A Message from LADWP Regarding Power and Water Service During Coronavirus/COVID-19 Pandemic](https://www.ladwpnews.com/a-message-from-ladwp-regarding-power-water-service-during-coronavirus-covid-19-pandemic/)
-
 
 ### WIC Services
 
 * WIC clinics under South Los Angeles Health Projects, PHFE, Watts Health Foundation, Pasadena, Long Beach, Antelope Valley, and Northeast Valley Health Corporation will remain open. WIC offices will remotely be issuing participants food benefits onto their WIC cards to avoid families from going out. For those families that have not yet gotten the new WIC card and wish to locate the nearest WIC clinic to them please call or visit the following websites for further guidance and assistance:
 
 * South Los Angeles Health Projects
-   
+
   * http://www.slahp.org/wic-centers-by-city/
- 
+
   * Phone: 310-661-3080
 
 * PHFE
- 
+
   * https://www.phfewic.org/
- 
+
   * Phone: 1-888-942-2229
 
 * Watts Health Foundation
 
   * https://www.wattshealth.org/wic-program/
- 
+
   * Phone: 1-323-564-4331
 
 * Pasadena
@@ -647,13 +637,13 @@ Food:
 * Long Beach
 
   * http://www.longbeach.gov/health/healthy-living/individual/wic/
- 
+
   * Phone: 1-562-570-4242
 
 * Antelope Valley
 
   * https://www.wicprograms.org/li/antelope_valley_lancaster_wic_93534
- 
+
   * Phone: 1-661-949-5805
 
 * Northeast Valley Health Corporation
