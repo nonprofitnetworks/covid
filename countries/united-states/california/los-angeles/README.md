@@ -5,6 +5,20 @@ As long as it is done to help others, you are welcome to add resources or copy t
 Please e-mail  [theebighonk@gmail.com](mailto:theebighonk@gmail.com)
 if you see any inaccurate info or if you'd like to add something.
 
+Google Translate
+:
+[عربي](https://translate.google.com/translate?sl=en&tl=ar&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+•
+[English](https://translate.google.com/translate?sl=en&tl=en&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+•
+[Español](https://translate.google.com/translate?sl=en&tl=es&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+•
+[Français](https://translate.google.com/translate?sl=en&tl=fr&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+•
+[Русский](https://translate.google.com/translate?sl=en&tl=ru&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+•
+[中文](https://translate.google.com/translate?sl=en&tl=zh&u=https%3A%2F%2Fgithub.com%2Fnonprofitnetworks%2Fcovid%2Fblob%2Fmaster%2Fcountries%2Funited-states%2Fcalifornia%2Flos-angeles%2Fenglish%2F)
+
 ## Alerts
 
 All restaurants (sit in), gym, fitness studios, theaters, and bars closed starting MONDAY, MARCH 16 at 12am **
@@ -97,7 +111,7 @@ Education:
 
   * 9th - 12th grade on KCET
 
-  * [More information]](https://www.kcet.org/tv-talk/at-home-learning).
+  * [More information](https://www.kcet.org/tv-talk/at-home-learning).
 
 
 ### Adults (18-64)
@@ -167,7 +181,6 @@ What employees are entitled to may be confusing.
 
 * For a run-down of labor laws in California, please visit:  [https://www.latimes.com/business/story/2020-03-12/coronavirus-labor-law-know-your-rights-california-worker](https://www.latimes.com/business/story/2020-03-12/coronavirus-labor-law-know-your-rights-california-worker)
 
-
 ### Paid Family Leave
 
 Paid family leave is available for those who stay home because they need to take care of someone who has contracted the virus (Covid-19) or who has been quarantined (must be certified by a medical professional). 
@@ -189,7 +202,6 @@ Unemployment benefits are available to those whose hours have been reduced or wh
 Unfortunately though, this benefit is not available to undocumented persons whose hours are reduced or lose their job for reasons related to COVID-19, etc.
 
 School closures: If your child’s school is closed and you have to miss work to care for them. You might qualify for Unemployment Insurance benefits.
-
 
 ### Worker’s Compensation
 
